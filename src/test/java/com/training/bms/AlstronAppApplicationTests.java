@@ -10,7 +10,7 @@ class AlstronAppApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(190, 200);
+		assertEquals(180, 200);
 	}
 
 }
