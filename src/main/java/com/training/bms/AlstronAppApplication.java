@@ -9,6 +9,7 @@ public class AlstronAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AlstronAppApplication.class, args);
 		System.out.println("Alstrom app started");
+		System.out.println("Changes made");
 	}
 
 }
